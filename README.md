@@ -1,7 +1,6 @@
 Hi, I’m @iwillstealyouroreos or Jonathan Hale
-I’m interested in skateboarding and competitve programming on CodeForces.com
-I’m currently learning Java, C++, and Python
-You can reach me on here and on twitter @iwilleaturoreos
+I’m interested in music production and competitve programming on CodeForces.com
+I’m currently learning React, Ocaml, Rust, and Python @ the University of Maryland 🐢
 
 <!---
 iwillstealyouroreos/iwillstealyouroreos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
