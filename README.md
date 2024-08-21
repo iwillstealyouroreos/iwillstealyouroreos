@@ -1,5 +1,6 @@
 Hi, I’m Jonathan
 I’m interested in sound engineering, music production, and competitve programming on CodeForces.com
+
 I’m currently learning UX, Machine Learning, and Computer Vision @ the University of Maryland 🐢
 
 <!---
