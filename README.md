@@ -1,7 +1,7 @@
 Hi, I’m Jonathan
-I’m interested in sound engineering, music production, and competitve programming on CodeForces.com
+I’m interested in Digital Signal Processing, Music Production, and Competitve Programming on CodeForces.com
 
-I’m currently learning UX, Machine Learning, and Computer Vision @ the University of Maryland 🐢
+I’m currently learning Computational Theory and Data Visualization @ the University of Maryland 🐢
 
 <!---
 iwillstealyouroreos/iwillstealyouroreos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
